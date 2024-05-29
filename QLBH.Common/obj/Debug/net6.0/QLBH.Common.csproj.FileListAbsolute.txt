@@ -1,0 +1,14 @@
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\QLBH.Common\bin\Debug\net6.0\QLBH.Common.deps.json
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\QLBH.Common\bin\Debug\net6.0\QLBH.Common.runtimeconfig.json
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\QLBH.Common\bin\Debug\net6.0\QLBH.Common.dll
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\QLBH.Common\bin\Debug\net6.0\QLBH.Common.pdb
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\QLBH.Common\obj\Debug\net6.0\QLBH.Common.csproj.AssemblyReference.cache
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\QLBH.Common\obj\Debug\net6.0\QLBH.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\QLBH.Common\obj\Debug\net6.0\QLBH.Common.AssemblyInfoInputs.cache
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\QLBH.Common\obj\Debug\net6.0\QLBH.Common.AssemblyInfo.cs
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\QLBH.Common\obj\Debug\net6.0\QLBH.Common.csproj.CoreCompileInputs.cache
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\QLBH.Common\obj\Debug\net6.0\QLBH.Common.dll
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\QLBH.Common\obj\Debug\net6.0\refint\QLBH.Common.dll
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\QLBH.Common\obj\Debug\net6.0\QLBH.Common.pdb
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\QLBH.Common\obj\Debug\net6.0\QLBH.Common.genruntimeconfig.cache
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\QLBH.Common\obj\Debug\net6.0\ref\QLBH.Common.dll

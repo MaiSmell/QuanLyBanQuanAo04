@@ -1,0 +1,17 @@
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\bin\Debug\net6.0\QLBH.DAL.deps.json
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\bin\Debug\net6.0\QLBH.DAL.runtimeconfig.json
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\bin\Debug\net6.0\QLBH.DAL.dll
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\bin\Debug\net6.0\QLBH.DAL.pdb
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\bin\Debug\net6.0\QLBH.Common.dll
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\bin\Debug\net6.0\QLBH.Common.pdb
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\obj\Debug\net6.0\QLBH.DAL.csproj.AssemblyReference.cache
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\obj\Debug\net6.0\QLBH.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\obj\Debug\net6.0\QLBH.DAL.AssemblyInfoInputs.cache
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\obj\Debug\net6.0\QLBH.DAL.AssemblyInfo.cs
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\obj\Debug\net6.0\QLBH.DAL.csproj.CoreCompileInputs.cache
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\obj\Debug\net6.0\QLBH.DAL.csproj.CopyComplete
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\obj\Debug\net6.0\QLBH.DAL.dll
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\obj\Debug\net6.0\refint\QLBH.DAL.dll
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\obj\Debug\net6.0\QLBH.DAL.pdb
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\obj\Debug\net6.0\QLBH.DAL.genruntimeconfig.cache
+D:\LT_CSDL\QuanLyBanQuanAo04Demo\DAL\obj\Debug\net6.0\ref\QLBH.DAL.dll
